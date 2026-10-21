@@ -1,0 +1,14 @@
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
+vectorstore/
+logs/
+usage_log.jsonl
+processed_data/
+list_models.py
+test_*.py
+*.pdf
+.vscode/
+   

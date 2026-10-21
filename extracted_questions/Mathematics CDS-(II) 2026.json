@@ -1,0 +1,902 @@
+[
+ {
+  "question_number": 1,
+  "question": "Two positive integers x and y are in the ratio 17 : 19. If the LCM of the two numbers is 1615, then what is (x + y) equal to ?",
+  "option_a": "36",
+  "option_b": "180",
+  "option_c": "360",
+  "option_d": "Cannot be determined due to insufficient data",
+  "topic": "Number System"
+ },
+ {
+  "question_number": 2,
+  "question": "If p/q = q/r = r/s = k, then what is (p^3 + q^3 + r^3)/(q^3 + r^3 + s^3) equal to ?",
+  "option_a": "p/s",
+  "option_b": "r/q",
+  "option_c": "s/p",
+  "option_d": "q/r",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 3,
+  "question": "If x^2 - 4x + 3 is a factor of x^4 + px^2 + q, then what is (p - q) equal to ?",
+  "option_a": "-19",
+  "option_b": "-17",
+  "option_c": "17",
+  "option_d": "19",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 4,
+  "question": "Suppose p and q are positive integers where q is not a perfect square. If 1/(p + \\sqrt{q}) is a root of a quadratic equation having integer coefficients, then which of the following statements is/are correct ?\nI. The sum of the roots is 2p times the product of the roots.\nII. The sum of the reciprocals of the roots is equal to 2p.\nSelect the answer using the code given below :",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 5,
+  "question": "If 1/(2b + 2c) + 1/(2c + 2a) = 1/(a + b), then what is a^2 + b^2 + c^2 equal to ?",
+  "option_a": "9c^2",
+  "option_b": "4c^2",
+  "option_c": "3c^2",
+  "option_d": "2c^2",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 6,
+  "question": "A train completely crossed two persons X and Y moving in the same direction as the train in 8 seconds and 8.1 seconds respectively. X is walking at a uniform speed of 3 km/hr and Y is walking at a uniform speed of 4 km/hr. What is the speed of the train ?",
+  "option_a": "81 km/hr",
+  "option_b": "82 km/hr",
+  "option_c": "83 km/hr",
+  "option_d": "84 km/hr",
+  "topic": "Arithmetic"
+ },
+ {
+  "question_number": 7,
+  "question": "A number is formed by three digits, each less by unity than the digit that follows it. If 15 is added to the number, then the sum is 30 times the sum of the digits of the number. What is the product of the digits of the number ?",
+  "option_a": "6",
+  "option_b": "24",
+  "option_c": "60",
+  "option_d": "120",
+  "topic": "Number System"
+ },
+ {
+  "question_number": 8,
+  "question": "Consider the following statements in respect of common logarithms :\nI. The logarithm of a number greater than 100 but less than 1000 lies between 2 and 3.\nII. The logarithm of a positive number less than unity is negative.\nWhich of the statements given above is/are correct ?",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Number System"
+ },
+ {
+  "question_number": 9,
+  "question": "What is the number of zeros immediately after the decimal point in (0.5)^1000 ?\n(Given that log_10 2 = 0.30103)",
+  "option_a": "300",
+  "option_b": "301",
+  "option_c": "302",
+  "option_d": "303",
+  "topic": "Number System"
+ },
+ {
+  "question_number": 10,
+  "question": "If x = 11 + 2\\sqrt{30}, then what is the value of x^(1/2) + x^(-1/2) ?",
+  "option_a": "2\\sqrt{2}",
+  "option_b": "2\\sqrt{3}",
+  "option_c": "2\\sqrt{5}",
+  "option_d": "2\\sqrt{6}",
+  "topic": "Number System"
+ },
+ {
+  "question_number": 11,
+  "question": "If 1/(x + k) + 1/(x + 2k) + 1/(x + 5k) = 1/k, then what is the solution of the equation ?",
+  "option_a": "k/3",
+  "option_b": "k/2",
+  "option_c": "2k/3",
+  "option_d": "k",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 12,
+  "question": "Consider the polynomial p(x) = x^5 + 2x^4 + x^3 - x^2 - 2x - 1 :\nI. x^2 + 2x + 1 is a factor of p(x).\nII. x^2 + x + 1 divides p(x).\nWhich of the statements given above is/are correct ?",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 13,
+  "question": "If 5 is a root of the equation x^2 + px - 55 = 0 and the quadratic equation x^2 + px + k = 0 has equal roots, then what is the value of k ?",
+  "option_a": "3",
+  "option_b": "6",
+  "option_c": "9",
+  "option_d": "12",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 14,
+  "question": "Had I walked 0.5 km/hr faster, I would have taken 8 minutes less to walk 2 km. What is my original speed ?",
+  "option_a": "2.5 km/hr",
+  "option_b": "2.75 km/hr",
+  "option_c": "3 km/hr",
+  "option_d": "3.25 km/hr",
+  "topic": "Arithmetic"
+ },
+ {
+  "question_number": 15,
+  "question": "If the roots of the equation x^2 + mx + n = 0 are increased by the same quantity k, then they become the roots of the equation x^2 + nx + m = 0. What is the value of (m + n) ?",
+  "option_a": "-4",
+  "option_b": "-2",
+  "option_c": "2",
+  "option_d": "4",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 16,
+  "question": "If \\alpha and \\beta are the roots of the equation 2x^2 - 2(n + 1)x + (n^2 + n + 1) = 0, then what is (2\\alpha^3 + 2\\beta^3) equal to ?",
+  "option_a": "n^3 - 1",
+  "option_b": "1 - n^3",
+  "option_c": "-(n^3 + 1)",
+  "option_d": "-(2n^3 + 1)",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 17,
+  "question": "The product of two numbers is 1050. The quotient when the larger number is divided by the smaller number is 4 and the remainder is 10. What is the sum of the two numbers ?",
+  "option_a": "70",
+  "option_b": "75",
+  "option_c": "80",
+  "option_d": "85",
+  "topic": "Number System"
+ },
+ {
+  "question_number": 18,
+  "question": "What is the HCF of x^3 + x^2 y - 10xy^2 + 8y^3 and x^3 + x^2 y - 4xy^2 - 4y^3 ?",
+  "option_a": "(x - y)",
+  "option_b": "(x - 2y)",
+  "option_c": "(x + 2y)",
+  "option_d": "(x + 4y)",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 19,
+  "question": "What is (\\sqrt{2} + \\sqrt{3} + \\sqrt{5})(\\sqrt{2} + \\sqrt{3} - \\sqrt{5})(\\sqrt{2} - \\sqrt{3} + \\sqrt{5})(-\\sqrt{2} + \\sqrt{3} + \\sqrt{5}) equal to ?",
+  "option_a": "60",
+  "option_b": "40",
+  "option_c": "24",
+  "option_d": "12",
+  "topic": "Number System"
+ },
+ {
+  "question_number": 20,
+  "question": "The LCM and HCF of two polynomials p(x) and q(x) are (x + k)^2 (x^2 - 7x + 6) and (x + k) respectively. If [x^3 + (2k - 1)x^2 + k(k - 2)x - k^2] is one of the polynomials, then which of the following statements is/are correct ?\nI. The other polynomial is (x + k)(x - 6) where k \\neq -6.\nII. (x + k) cannot be the HCF if k = -6.\nSelect the answer using the code given below :",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 21,
+  "question": "A shopkeeper sold his goods at the cost price. By using false weights, he gained 11(1/9)%. What weight did he use for 1 kg ?",
+  "option_a": "960 gm",
+  "option_b": "950 gm",
+  "option_c": "925 gm",
+  "option_d": "900 gm",
+  "topic": "Arithmetic"
+ },
+ {
+  "question_number": 22,
+  "question": "If the roots of the equation px^2 - 40x + 96 = 0 are even integers, then what is the value of p ?",
+  "option_a": "1",
+  "option_b": "2",
+  "option_c": "3",
+  "option_d": "4",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 23,
+  "question": "A number N consists of two digits. The digit in the tens place is 3 times the digit in the units place. The digits are reversed and the resulting number is denoted by R. If N \\times R = 3627, then what is the product of the digits of the number N ?",
+  "option_a": "27",
+  "option_b": "18",
+  "option_c": "12",
+  "option_d": "3",
+  "topic": "Number System"
+ },
+ {
+  "question_number": 24,
+  "question": "A boatman can row to a place (Y) at a distance of 24 km from the starting point (X) and back in 14 hours. If he can row 4 km with the stream in the same time as 3 km against it, what is the speed of the stream ?",
+  "option_a": "0.5 km/hr",
+  "option_b": "1 km/hr",
+  "option_c": "2 km/hr",
+  "option_d": "2.5 km/hr",
+  "topic": "Arithmetic"
+ },
+ {
+  "question_number": 25,
+  "question": "An alloy (X) of gold and silver is taken in the ratio 1 : 2 and another alloy (Y) of gold and silver is taken in the ratio 2 : 3. How many parts of X and Y must be taken to obtain a new alloy Z consisting of gold and silver in the ratio 4 : 7 ?",
+  "option_a": "5 : 6",
+  "option_b": "2 : 1",
+  "option_c": "3 : 5",
+  "option_d": "6 : 5",
+  "topic": "Arithmetic"
+ },
+ {
+  "question_number": 26,
+  "question": "N is a 3-digit number. The middle digit of N is equal to the sum of the other two digits and the sum of the digits is 10. How many such numbers (N) can be possible ?",
+  "option_a": "3",
+  "option_b": "4",
+  "option_c": "5",
+  "option_d": "6",
+  "topic": "Number System"
+ },
+ {
+  "question_number": 27,
+  "question": "The ratio of the cost price of two articles X and Y is 1 : 2. A businessman earns a profit of p% by selling X and a loss of 3p% by selling Y. If he loses 20% in this transaction, then what is the value of p ?",
+  "option_a": "6%",
+  "option_b": "8%",
+  "option_c": "10%",
+  "option_d": "12%",
+  "topic": "Arithmetic"
+ },
+ {
+  "question_number": 28,
+  "question": "A sum of money at the rate of 5% per annum compounded annually becomes n times in 100 years. What is the value of n ?\n(Given log_10 2 = 0.301, log_10 3 = 0.477 and log_10 7 = 0.845)",
+  "option_a": "98",
+  "option_b": "99",
+  "option_c": "100",
+  "option_d": "More than 100",
+  "topic": "Arithmetic"
+ },
+ {
+  "question_number": 29,
+  "question": "A variable y is directly proportional to a variable quantity x^n. Given that when x = 2, y = 20.8 and when x = 3, y = 105.3. Which one of the following is the constant of proportionality if it is greater than 1 ?",
+  "option_a": "1.1",
+  "option_b": "1.3",
+  "option_c": "2",
+  "option_d": "4",
+  "topic": "Arithmetic"
+ },
+ {
+  "question_number": 30,
+  "question": "If x = 3 - 3^(1/3) - 3^(2/3), then what is x(x - 3)(x - 6) equal to ?",
+  "option_a": "-12",
+  "option_b": "-9",
+  "option_c": "0",
+  "option_d": "12",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 31,
+  "question": "Consider the following statements : I. The set of all birds living on the Earth is an infinite set. II. The set of all real numbers between 0 and 10 is a finite set. Which of the statements given above is/are correct ?",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 32,
+  "question": "Consider the following sets : I. The set of even prime numbers II. {x ∈ R : x^3 + 1 = 0} III. {n ∈ Z : n^2 < 1} How many of the above are null sets ?",
+  "option_a": "None",
+  "option_b": "One",
+  "option_c": "Two",
+  "option_d": "All the three",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 33,
+  "question": "Consider the following statements : I. If A is a subset of U and U is the Universal set, then the complement of the set A is also a subset of U. II. The complement of a Universal set is a singleton set. Which of the statements given above is/are correct ?",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 34,
+  "question": "What should be added to (2x^3 + 3x^2 - 1) / ((x + 2)(x^2 + 1)) to get (x^2 - 1) / (x^2 + 1) ?",
+  "option_a": "(x^2 - 1) / ((x + 2)(x^2 + 1))",
+  "option_b": "(x^2 + 2) / ((x + 2)(x^2 + 1))",
+  "option_c": "(x + 1) / (x + 2)",
+  "option_d": "(x - 1) / (x + 2)",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 35,
+  "question": "If x + y + z = 0, then what is x(y + z)^2 + y(z + x)^2 + z(x + y)^2 equal to ?",
+  "option_a": "xyz",
+  "option_b": "2xyz",
+  "option_c": "3xyz",
+  "option_d": "6xyz",
+  "topic": "Algebra"
+ },
+ {
+  "question_number": 36,
+  "question": "If tan 6θ . tan 3θ = 1, where 0 < θ < 30°, then what is θ equal to ?",
+  "option_a": "5°",
+  "option_b": "10°",
+  "option_c": "15°",
+  "option_d": "No such value exists",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 37,
+  "question": "If (1 - tan x) / (1 + tan x) = 1 - (2tan x) / (1 + tan^2 x), 0 <= x < π/2, x != π/4, then what is (sin x + cos x) equal to ?",
+  "option_a": "1/2",
+  "option_b": "3/4",
+  "option_c": "1",
+  "option_d": "√2",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 38,
+  "question": "If cos^2 x + cos^4 x = 1, where 0 < x < π/2, then what is (sin^2 x + sin^3 x) + (sin^3 x + sin^4 x) equal to ?",
+  "option_a": "(21 + 12√3) / 16",
+  "option_b": "(3 + 2√2) / 4",
+  "option_c": "9/8",
+  "option_d": "1",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 39,
+  "question": "If sin^4 x + cos^4 x = 1, where 0 <= x <= π/2, then what is sin x . cos x equal to ?",
+  "option_a": "0",
+  "option_b": "1/2",
+  "option_c": "3/4",
+  "option_d": "1",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 40,
+  "question": "If 3 cos θ + 4 sin θ = 4, where 0 <= θ < π/2, then what is 4 cos θ + 3 sin θ equal to ?",
+  "option_a": "117/25",
+  "option_b": "3",
+  "option_c": "107/25",
+  "option_d": "4",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 41,
+  "question": "If cot θ + cos θ = m, cot θ - cos θ = n, where 0 < θ < π/2, then what is (m^2 - n^2) / √(mn) equal to ?",
+  "option_a": "1",
+  "option_b": "2",
+  "option_c": "2√2",
+  "option_d": "4",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 42,
+  "question": "If 1 / (cosec θ + cot θ) - 1 / sin θ = p, then what is 1 / sin θ - 1 / (cosec θ - cot θ) equal to ?",
+  "option_a": "-p",
+  "option_b": "-1/p",
+  "option_c": "p",
+  "option_d": "1/p",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 43,
+  "question": "If 8 sin θ - cos θ = 4, where π/6 < θ < π/3, then what is sin θ equal to ?",
+  "option_a": "3/5",
+  "option_b": "5/13",
+  "option_c": "4/5",
+  "option_d": "12/13",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 44,
+  "question": "A person walking along a straight road observes that at two consecutive kilometer-stones the angles of elevation of a hill in front of him are 30° and 60° respectively. What is the height of the hill ?",
+  "option_a": "3√3 km",
+  "option_b": "2√3 km",
+  "option_c": "√3 km",
+  "option_d": "√3/2 km",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 45,
+  "question": "A tower subtends an angle α at a point P on the same level as the foot of the tower. Q is a point vertically above P and PQ = h. If the angle of depression of the foot of the tower measured from Q is β, then what is the height of the tower ?",
+  "option_a": "h tan α tan β",
+  "option_b": "h cot α tan β",
+  "option_c": "h tan α cot β",
+  "option_d": "h cot α cot β",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 46,
+  "question": "If 5 sin θ + 12 cos θ = 13, where 0 < θ < π/2, then what is tan θ + cot θ equal to ?",
+  "option_a": "194/65",
+  "option_b": "169/60",
+  "option_c": "313/156",
+  "option_d": "371/120",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 47,
+  "question": "What is the ratio of the greatest value of sin^2 x + 2 (where 0 <= x <= π/2) to its least value ?",
+  "option_a": "2",
+  "option_b": "3/2",
+  "option_c": "2",
+  "option_d": "1/2",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 48,
+  "question": "If A + B + C = π (A, B, C > 0) and the angle C is obtuse, then which of the following is/are correct ? I. sin A . sin B < 1 II. tan A . tan B > 1 Select the answer using the code given below :",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 49,
+  "question": "If (cos 35° + cos 55°) = p, then what is sin 35° . cos 35° equal to ?",
+  "option_a": "(1 - p^2) / 2",
+  "option_b": "(p^2 - 1) / 2",
+  "option_c": "(1 + p^2) / 2",
+  "option_d": "(p - 1) / 2",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 50,
+  "question": "If p = sec θ + tan θ and q = cosec θ - cot θ, then what is (p - q - pq) equal to ?",
+  "option_a": "-1",
+  "option_b": "0",
+  "option_c": "1",
+  "option_d": "2",
+  "topic": "Trigonometry"
+ },
+ {
+  "question_number": 51,
+  "question": "In a cyclic quadrilateral ABCD, ∠A = (4x + 3)°, ∠B = (3y + 9)°, ∠C = (4y - 3)°, ∠D = (5x - 10)°. What is ∠A + ∠B equal to ?",
+  "option_a": "200°",
+  "option_b": "190°",
+  "option_c": "180°",
+  "option_d": "170°",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 52,
+  "question": "The area of a rhombus is 720 cm^2 and the sum of its diagonals is 98 cm. What is the perimeter of the rhombus ?",
+  "option_a": "160 cm",
+  "option_b": "164 cm",
+  "option_c": "168 cm",
+  "option_d": "172 cm",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 53,
+  "question": "A chord of a circle makes an angle of 90° at the centre of the circle. If the area of the major segment is k times the area of the minor segment, then what is the value of k ? (Take π = 22/7)",
+  "option_a": "8",
+  "option_b": "9",
+  "option_c": "10",
+  "option_d": "11",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 54,
+  "question": "ABC is a triangle in which (AB + BC) exceeds CA by 10 cm, (BC + CA) exceeds AB by 8 cm and (CA + AB) exceeds BC by 72 cm. What is the area of the triangle ?",
+  "option_a": "196 cm^2",
+  "option_b": "180 cm^2",
+  "option_c": "172 cm^2",
+  "option_d": "160 cm^2",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 55,
+  "question": "A reservoir is in the form of a cuboid. Its length is 30 m. If 24 kL of water is removed from the reservoir, the water level goes down by 20 cm. What is the width of the reservoir ?",
+  "option_a": "4 m",
+  "option_b": "3.5 m",
+  "option_c": "3 m",
+  "option_d": "2.5 m",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 56,
+  "question": "A well is dug with a diameter of 3.5 m and 16 m depth. The earth soil so excavated is spread in the form of a right circular cone of radius 7 m. What is the height of the cone ?",
+  "option_a": "1.5 m",
+  "option_b": "2 m",
+  "option_c": "2.5 m",
+  "option_d": "3 m",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 57,
+  "question": "The chord of a circle is 20 cm and the height of the minor segment is 5 cm. What is the diameter of the circle ?",
+  "option_a": "24 cm",
+  "option_b": "25 cm",
+  "option_c": "26 cm",
+  "option_d": "30 cm",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 58,
+  "question": "On a circular metal plate of uniform thickness, 16 holes, each of diameter 2 cm, are made. If the plate thereby has lost one-ninth of its original weight, then what is the diameter of the plate ?",
+  "option_a": "12 cm",
+  "option_b": "15 cm",
+  "option_c": "21 cm",
+  "option_d": "24 cm",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 59,
+  "question": "A square of side length 4 cm has its corners cut away in such a manner so as to form a regular octagon. What is the length of the side of the octagon ? (Take √2 = 1.41)",
+  "option_a": "1.00 cm",
+  "option_b": "1.64 cm",
+  "option_c": "1.68 cm",
+  "option_d": "1.72 cm",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 60,
+  "question": "A tall cylindrical reservoir kept vertically is 20 m in diameter. Water is poured into it at the rate of 264 m^3 per hour. What is the rate at which the water level rises in the reservoir per minute ? (Take π = 22/7)",
+  "option_a": "1.0 cm",
+  "option_b": "1.2 cm",
+  "option_c": "1.4 cm",
+  "option_d": "14 cm",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 61,
+  "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion : ABCD is a rhombus of side 10 cm. What is the sum of the squares of the diagonals of the rhombus?\nStatement I : AC : BD = 3 : 4.\nStatement II : AC = 6 cm.\n\nWhich one of the following is correct in respect of the above Question and Statements?",
+  "option_a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+  "option_b": "The Question can be answered by using either Statement alone.",
+  "option_c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+  "option_d": "The Question can be answered even without using both the Statements.",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 62,
+  "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion : The diagonal of a rectangle ABCD (AB > BC) is 5\\sqrt{2} cm. What is its perimeter?\nStatement I : Length AB is an integer.\nStatement II : Length BC is an integer.\n\nWhich one of the following is correct in respect of the above Question and Statements?",
+  "option_a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+  "option_b": "The Question can be answered by using either Statement alone.",
+  "option_c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+  "option_d": "The Question can be answered even without using both the Statements.",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 63,
+  "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion : ABC is a triangle right-angled at A and AD is perpendicular to BC. If AD = 7.2 cm, then what is BD \\times CD equal to?\nStatement I : AB : AC = 3 : 4.\nStatement II : BC = 15 cm.\n\nWhich one of the following is correct in respect of the above Question and Statements?",
+  "option_a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+  "option_b": "The Question can be answered by using either Statement alone.",
+  "option_c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+  "option_d": "The Question can be answered even without using both the Statements.",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 64,
+  "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion : ABCD is a quadrilateral with AB = 6 cm, BC = 8 cm, CD = 4\\sqrt{5} cm, DA = 2\\sqrt{5} cm and inscribed in a circle. What is the diameter of the circle?\nStatement I : The area of the quadrilateral is 44 cm^2.\nStatement II : \\angle ABC = 90^\\circ.\n\nWhich one of the following is correct in respect of the above Question and Statements?",
+  "option_a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+  "option_b": "The Question can be answered by using either Statement alone.",
+  "option_c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+  "option_d": "The Question can be answered even without using both the Statements.",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 65,
+  "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion : ABC is a triangle inscribed in a semi-circle such that AC coincides with the diameter of the semi-circle. Let P be any point on the arc of the semi-circle. What is AP^2 + CP^2 + AC^2 equal to?\nStatement I : The radius of the circle is 5 cm.\nStatement II : AB = 6 cm and BC = 8 cm.\n\nWhich one of the following is correct in respect of the above Question and Statements?",
+  "option_a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+  "option_b": "The Question can be answered by using either Statement alone.",
+  "option_c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+  "option_d": "The Question can be answered even without using both the Statements.",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 66,
+  "question": "A thin metallic sheet, 1.92 m^2 in area, is cut into two equal pieces. One piece is used to make a hollow cube of volume P (in m^3) and the other is used to make a hollow cuboid of volume Q (in m^3) with dimensions in the ratio 4 : 2 : 1. If no sheet is wasted, which one of the following is correct?",
+  "option_a": "343Q^2 = 216P^2",
+  "option_b": "343Q^2 = 225P^2",
+  "option_c": "49Q^2 = 64P^2",
+  "option_d": "49Q^2 = 25P^2",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 67,
+  "question": "ABC is a triangle such that \\angle ABC = 120^\\circ. If BD is the bisector of \\angle B that meets AC at D, then what is the ratio of the area of \\Delta ABD to the area of \\Delta CBD?",
+  "option_a": "AB : BC",
+  "option_b": "BC : AB",
+  "option_c": "AB^2 : BC^2",
+  "option_d": "1 : 1",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 68,
+  "question": "Consider the following statements :\nI. The areas of two similar triangles are in the ratio of the squares of the corresponding medians.\nII. The areas of two similar triangles are in the ratio of the squares of the corresponding heights.\n\nWhich of the statements given above is/are correct?",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 69,
+  "question": "If two similar scalene triangles ABC and PQR have the same area, then which of the following statements is/are correct?\nI. Both the triangles are congruent.\nII. Both the triangles have equal perimeters.\n\nSelect the answer using the code given below :",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 70,
+  "question": "In a triangle ABC, AB = 8 cm and D and E are points on AB and AC respectively such that DE is parallel to BC. If BC = 5DE, then what is AD \\times BD equal to?",
+  "option_a": "10 cm^2",
+  "option_b": "10.24 cm^2",
+  "option_c": "10.56 cm^2",
+  "option_d": "12 cm^2",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 71,
+  "question": "How many square metres of canvas (approximately) will be required to make a conical tent 3 m high so that a man 2 m tall may stand anywhere within a radius of 1 m from its centre without stooping?",
+  "option_a": "36 m^2",
+  "option_b": "40 m^2",
+  "option_c": "44 m^2",
+  "option_d": "48 m^2",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 72,
+  "question": "PQRS is a square. M is a point on PS such that PM : MS = 2 : 1 and N is a point on SR such that SN : NR = 1 : 2. If the area of triangle MQN is 10 square units, then what is the perimeter of the square?",
+  "option_a": "24 units",
+  "option_b": "28 units",
+  "option_c": "32 units",
+  "option_d": "36 units",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 73,
+  "question": "A cubical wooden block of length 10 cm is sliced to produce a cross-section of maximum area. What is the area of the cross-section?",
+  "option_a": "100 cm^2",
+  "option_b": "100\\sqrt{2} cm^2",
+  "option_c": "100\\sqrt{3} cm^2",
+  "option_d": "200 cm^2",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 74,
+  "question": "In a triangle ABC, AD is the bisector of angle A that meets BC at D. If AB = 21 cm, DC = 20 cm and AB : AC = 3 : 4, then what is AC^2 - BD^2 equal to?",
+  "option_a": "441",
+  "option_b": "559",
+  "option_c": "588",
+  "option_d": "784",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 75,
+  "question": "A square of maximum area is inscribed in an equilateral triangle. If the side of the triangle is equal to (6 + 4\\sqrt{3}) cm, then what is the area of the square?",
+  "option_a": "36 cm^2",
+  "option_b": "27 cm^2",
+  "option_c": "21 cm^2",
+  "option_d": "18 cm^2",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 76,
+  "question": "A room is L m long, B m wide and H m high. Further, L > B > H and L, B and H are integers. The length of the longest pole that can be placed in the room is 17 m and the length of the longest pole that can be placed on the floor is 15 m. What is the volume of the room?",
+  "option_a": "432 m^3",
+  "option_b": "864 m^3",
+  "option_c": "1296 m^3",
+  "option_d": "Cannot be determined due to insufficient data",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 77,
+  "question": "A spherical metal ball is molten and made into n smaller identical spheres. In this process, the surface area of the smaller balls increases by 900%. What is the value of n?",
+  "option_a": "729",
+  "option_b": "900",
+  "option_c": "1000",
+  "option_d": "Cannot be determined due to insufficient data",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 78,
+  "question": "ABCD is a parallelogram with \\angle ABC = 150^\\circ and the sides have integer values. If the area of the parallelogram is 17.5 cm^2, then consider the following statements :\nI. It is possible to have a perimeter equal to 24 cm.\nII. It is possible to have a perimeter equal to 72 cm.\n\nWhich of the statements given above is/are correct?",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 79,
+  "question": "N number of cubes each of side length equal to 10 cm are joined end to end in a row. If the total surface area of the resulting cuboid is 3800 cm^2, then what is the value of N?",
+  "option_a": "8",
+  "option_b": "9",
+  "option_c": "10",
+  "option_d": "12",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 80,
+  "question": "In a quadrilateral ABCD, \\angle ABC = 90^\\circ and \\angle ACD = 90^\\circ. Let AB = p units, BC = q units, AC = r units, CD = s units, AD = t units, where p < q < r < s < t < 15. If p, q, r, s and t are integers, then what is the area of the quadrilateral?",
+  "option_a": "24 square units",
+  "option_b": "36 square units",
+  "option_c": "48 square units",
+  "option_d": "Cannot be determined due to insufficient data",
+  "topic": "Mensuration"
+ },
+ {
+  "question_number": 81,
+  "question": "For the next three (03) items that follow :\n\nThe centre O of a circle inside a triangle ABC is at a distance of 13 cm from each of the vertices of the triangle. The diameter of the circle is 10 cm and the circle touches only two sides of the triangle, AB and AC.\n\nIf x is the perimeter, in cm, of the triangle, then which one of the following is correct?",
+  "option_a": "63 cm < x < 65 cm",
+  "option_b": "65 cm < x < 67 cm",
+  "option_c": "67 cm < x < 69 cm",
+  "option_d": "69 cm < x < 71 cm",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 82,
+  "question": "For the next three (03) items that follow :\n\nThe centre O of a circle inside a triangle ABC is at a distance of 13 cm from each of the vertices of the triangle. The diameter of the circle is 10 cm and the circle touches only two sides of the triangle, AB and AC.\n\nIf y is the area in cm^2 of the triangle, then which one of the following is correct?",
+  "option_a": "190 cm^2 < y < 200 cm^2",
+  "option_b": "200 cm^2 < y < 210 cm^2",
+  "option_c": "210 cm^2 < y < 220 cm^2",
+  "option_d": "220 cm^2 < y < 230 cm^2",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 83,
+  "question": "For the next three (03) items that follow :\n\nThe centre O of a circle inside a triangle ABC is at a distance of 13 cm from each of the vertices of the triangle. The diameter of the circle is 10 cm and the circle touches only two sides of the triangle, AB and AC.\n\nConsider the following statements :\nI. \\angle ABC lies between 60^\\circ and 90^\\circ.\nII. If z is the distance in cm from the centre O of the circle to the midpoint of BC, then 7 cm < z < 8 cm.\n\nWhich of the statements given above is/are correct?",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 84,
+  "question": "For the next three (03) items that follow :\n\nA circle with centre O passes through the vertex A of an equilateral triangle ABC and touches BC at its midpoint M. The circle cuts AB at D and AC at E.\n\nWhat is AD : DB equal to?",
+  "option_a": "2 : 1",
+  "option_b": "3 : 2",
+  "option_c": "3 : 1",
+  "option_d": "4 : 3",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 85,
+  "question": "For the next three (03) items that follow :\n\nA circle with centre O passes through the vertex A of an equilateral triangle ABC and touches BC at its midpoint M. The circle cuts AB at D and AC at E.\n\nIf x is the area of the circle and y is the area of the triangle such that z = (x / y)^2, then which one of the following is correct?",
+  "option_a": "0.5 < z < 1",
+  "option_b": "1 < z < 1.5",
+  "option_c": "1.5 < z < 2",
+  "option_d": "z > 2",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 86,
+  "question": "For the next three (03) items that follow :\n\nA circle with centre O passes through the vertex A of an equilateral triangle ABC and touches BC at its midpoint M. The circle cuts AB at D and AC at E.\n\nWhat is the ratio of the area of the triangle ADO to the area of the quadrilateral BDOM?",
+  "option_a": "3 : 5",
+  "option_b": "4 : 5",
+  "option_c": "3 : 3",
+  "option_d": "2 : 3",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 87,
+  "question": "For the next two (02) items that follow :\n\nABC is an equilateral triangle. BP is perpendicular to AC, PR is perpendicular to AB, and PQ is perpendicular to BC.\n\nWhat is the ratio of AB^2 : BP^2 : PR^2?",
+  "option_a": "4 : 3 : 1",
+  "option_b": "16 : 12 : 3",
+  "option_c": "16 : 12 : 5",
+  "option_d": "5 : 4 : 3",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 88,
+  "question": "For the next two (02) items that follow :\n\nABC is an equilateral triangle. BP is perpendicular to AC, PR is perpendicular to AB, and PQ is perpendicular to BC.\n\nWhat is the ratio of the area of \\Delta PRB to the area of \\Delta PQC?",
+  "option_a": "1 : 1",
+  "option_b": "2 : 1",
+  "option_c": "3 : 1",
+  "option_d": "3 : 2",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 89,
+  "question": "For the next two (02) items that follow :\n\nPQR is a triangle such that QP = QR = 15 cm and PR = 18 cm. PN, QM and RT are the altitudes of the triangle which intersect at O.\n\nWhat is QT : QO equal to?",
+  "option_a": "3 : 4",
+  "option_b": "4 : 5",
+  "option_c": "3 : 5",
+  "option_d": "1 : 2",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 90,
+  "question": "For the next two (02) items that follow :\n\nPQR is a triangle such that QP = QR = 15 cm and PR = 18 cm. PN, QM and RT are the altitudes of the triangle which intersect at O.\n\nWhat is the ratio of QO to OM?",
+  "option_a": "11 : 9",
+  "option_b": "11 : 8",
+  "option_c": "25 : 27",
+  "option_d": "7 : 9",
+  "topic": "Geometry"
+ },
+ {
+  "question_number": 91,
+  "question": "If the mean of a set of 7 observations is 10 and the mean of a set of 3 observations is 5, then what is the combined mean?",
+  "option_a": "9",
+  "option_b": "8.5",
+  "option_c": "6.5",
+  "option_d": "5.5",
+  "topic": "Statistics"
+ },
+ {
+  "question_number": 92,
+  "question": "The average weekly wages of male employees in a company is ₹ 4,200 and that of females is ₹ 3,200. If the average weekly wage of all employees is ₹ 4,000, then what is the ratio of male to female employees?",
+  "option_a": "3 : 2",
+  "option_b": "5 : 3",
+  "option_c": "4 : 1",
+  "option_d": "3 : 5",
+  "topic": "Statistics"
+ },
+ {
+  "question_number": 93,
+  "question": "Consider the observations x, x + 4, 30, 33, 74, 78, 49, 52, 98, 85. If the median of the data is 67, then what is the value of x?",
+  "option_a": "66",
+  "option_b": "65",
+  "option_c": "63",
+  "option_d": "Cannot be determined due to insufficient data",
+  "topic": "Statistics"
+ },
+ {
+  "question_number": 94,
+  "question": "A cyclist pedals from her house to her office at a speed of 3 kmph and back from the office to her house at 6 kmph. What is the average speed?",
+  "option_a": "5 kmph",
+  "option_b": "4.5 kmph",
+  "option_c": "4 kmph",
+  "option_d": "3.5 kmph",
+  "topic": "Statistics"
+ },
+ {
+  "question_number": 95,
+  "question": "If the heights (in cm) of 9 students of a class are 150, 165, 145, 149, 150, 147, 152, 144 and 148, then what is the algebraic sum of the heights measured from their arithmetic mean?",
+  "option_a": "- 5",
+  "option_b": "0",
+  "option_c": "5",
+  "option_d": "150",
+  "topic": "Statistics"
+ },
+ {
+  "question_number": 96,
+  "question": "Consider the following grouped data : [Class | Frequency: 0-10 | 4, 10-20 | 8, 20-30 | 15, 30-40 | 10, 40-50 | 3] What is the mode of the above distribution?",
+  "option_a": "25.83",
+  "option_b": "25.43",
+  "option_c": "25.00",
+  "option_d": "24.73",
+  "topic": "Statistics"
+ },
+ {
+  "question_number": 97,
+  "question": "If the mean of 15 observations, namely x_1, x_2, x_3, ..., x_15 is 2.5, then what is the value of \\sum_{i=1}^{15} [5(4x_i + 1)]?",
+  "option_a": "400",
+  "option_b": "525",
+  "option_c": "625",
+  "option_d": "825",
+  "topic": "Statistics"
+ },
+ {
+  "question_number": 98,
+  "question": "Consider the following discrete grouped data : [x | f: 12 | 6, 14 | 8, 10 | 10, 16 | 9, 18 | 3] What is the arithmetic mean of the above distribution?",
+  "option_a": "13.69",
+  "option_b": "13.39",
+  "option_c": "13.19",
+  "option_d": "13.09",
+  "topic": "Statistics"
+ },
+ {
+  "question_number": 99,
+  "question": "Consider the following incomplete frequency distribution with a total frequency of 100 : [Class | Frequency: 0-10 | 10, 10-20 | x, 20-30 | 20, 30-40 | y] If the mean of the frequency distribution is 25, then what are the missing frequencies?",
+  "option_a": "x = 15, y = 55",
+  "option_b": "x = 50, y = 20",
+  "option_c": "x = 20, y = 45",
+  "option_d": "x = 25, y = 45",
+  "topic": "Statistics"
+ },
+ {
+  "question_number": 100,
+  "question": "The following data gives the investment in different categories by a governmental organization : [1. Science, Technology and Environment: 7,200 | 2. Transport and Communication: 3,000 | 3. Rural Development: 1,500 | 4. Industry and Minerals: 3,800 | 5. Agricultural Services: 2,500 (Investment in ₹ crores)]. Which of the following statements is/are correct? I. The percentage investment in the 'Science, Technology and Environment' category is 40%. II. The angle (in degrees) for 'Agricultural Services' in a pie diagram is 50°. Select the answer using the code given below :",
+  "option_a": "I only",
+  "option_b": "II only",
+  "option_c": "Both I and II",
+  "option_d": "Neither I nor II",
+  "topic": "Statistics"
+ }
+]
