@@ -1,8 +1,61 @@
 # CDS Examination Assistant
 
-An AI assistant for the Combined Defence Services (CDS) exam. Ask for previous-year
-questions by topic, subject, year or question number, and the assistant retrieves real
-questions from past papers and explains the solution.
+**A traceable AI agent for CDS exam preparation, built on previous-year question papers.**
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![LangChain](https://img.shields.io/badge/LangChain-LangGraph-green)
+![Gemini](https://img.shields.io/badge/LLM-Google%20Gemini-orange)
+![OpenTelemetry](https://img.shields.io/badge/Tracing-OpenTelemetry-purple)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
+
+## Overview
+
+The CDS Examination Assistant is a prototype of a custom AI agent that helps candidates
+prepare for the **Combined Defence Services (CDS)** exam. It is built on top of real
+previous-year question papers: you ask for questions by topic, subject, year or question
+number, and the agent retrieves matching questions from the papers and explains the solution.
+
+Most chatbots answer from memory and can invent exam questions. This agent uses
+**RAG (Retrieval-Augmented Generation)**: it first searches a database built from the actual
+papers, and only then writes its answer from what it found. Every answer shows which paper
+and question number it came from.
+
+## Purpose: traceability
+
+The main goal of this project is to make an AI agent **transparent**. It does not only give an
+answer: it lets you see **how the agent produced that answer from the existing question
+papers**, which path it followed, and what it cost in tokens.
+
+The agent is instrumented with **OpenTelemetry**, the open standard for tracing. Every
+question you ask is recorded as a trace and exported to an OpenTelemetry tool (this project
+uses [Arize Phoenix](https://github.com/Arize-ai/phoenix) running locally), so you can open
+any answer and follow it step by step.
+
+## What you can see in a trace
+
+| Question you may have | Where to find it in the trace |
+|---|---|
+| Which path did the agent follow? | The sequence of steps: model call, tool call, model call |
+| Which past-paper questions did it use? | The tool output: the retrieved questions with year, session, subject and question number |
+| What did the model receive and what did it return? | The input and output of each model call |
+| How many tokens were used? | Token counts per model call (shown when the model provider reports them) |
+| How long did each step take? | The duration of each step |
+| What went wrong? | Errors such as a busy or out-of-quota model, and the fallback to the next model |
+| Which questions belong to one conversation? | A shared `session_id` on every trace in the chat |
+
+A typical trace:
+
+```
+agent run
+ |- model call 1      the model decides which tool to use
+ |- tool: search_cds_papers
+ |     input : search text, subject and year chosen by the model
+ |     output: the retrieved past-paper questions
+ |- model call 2      writes the final answer from those questions
+```
+
+The traces are also saved as plain logs in `logs/agent_traces.jsonl`.
+
 
 ## How it works
 
@@ -41,7 +94,7 @@ User question -> LangChain/LangGraph agent (Gemini)
 | Embeddings | Local Hugging Face sentence-transformers model |
 | Vector database | ChromaDB |
 | Interface | Streamlit |
-| Observability (optional) | OpenInference + OpenTelemetry, Arize Phoenix |
+| | Tracing | OpenTelemetry (via OpenInference), Arize Phoenix |
 
 ## Papers included
 
