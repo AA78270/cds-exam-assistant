@@ -2,12 +2,6 @@
 
 **A traceable AI agent for CDS exam preparation, built on previous-year question papers.**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![LangChain](https://img.shields.io/badge/LangChain-LangGraph-green)
-![Gemini](https://img.shields.io/badge/LLM-Google%20Gemini-orange)
-![OpenTelemetry](https://img.shields.io/badge/Tracing-OpenTelemetry-purple)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
-
 ## Overview
 
 The CDS Examination Assistant is a prototype of a custom AI agent that helps candidates
